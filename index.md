@@ -1,6 +1,6 @@
 I am a Ph.D. student at the [University of British Columbia](http://www.ece.ubc.ca), under the supervision of Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca). I work in computer architecture and computer systems. My current research mainly focuses on the architectural support for efficient GPU synchronizations, including memory consistency model, cache coherence protocol, transactional memory, and so on. Meanwhile, I am also actively participating in a project of designing sparse training accelerators.
 
-Before joining the University of British Columbia, I earned my Bachelor and Master degrees from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
+Before joining the University of British Columbia, I earned my Bachelor (2012) and Master (2015) degrees from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
 
 You can access my Curriculum Vitae at [here](./docs/Xiaowei_Ren_CV.pdf).
 
