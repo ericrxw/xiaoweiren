@@ -15,7 +15,7 @@ Email: xiaowei@ece.ubc.ca
 |Sept. 2012 -- Jun. 2015 | Research Assistant   | Xi'an Jiaotong University, China                   |
 |Jul. 2011 -- Sept. 2011 | Undergraduate Intern | ICT, Chinese Academy of Science, China             |
 
-# Publication
+# Publications
 
 * **Xiaowei Ren**, Daniel Lustig, Evgeny Bolotin, Aamer Jaleel, Oreste Villa, and David Nellans. "HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems", _26th International Symposium on High Performance Computer Architecture (HPCA)_, San Diego, USA, February 2020. (acceptance rate: 48/248 = 19.4%) [[paper](./docs/HPCA2020/HMG-HPCA2020.pdf)][[slides](./docs/HPCA2020/HMG-HPCA2020.pptx)][[lightning-slides](./docs/HPCA2020/HMG-HPCA2020-Lightning.pptx)][[lightning-video](https://youtu.be/FEG6lYoWeIE)]
 * **Xiaowei Ren**, and Mieszko Lis. "High-Performance GPU Transactional Memory via Eager Conflict Detection", _24th International Symposium on High Performance Computer Architecture (HPCA)_, Vienna, Austria, February 2018. (acceptance rate: 54/260 = 20.8%) [[paper](./docs/HPCA2018/GETM-HPCA2018.pdf)][[slides](./docs/HPCA2018/GETM-HPCA2018.pptx)][[lightning-slides](./docs/HPCA2018/GETM-HPCA2018-Lightning.pptx)][[lightning-video](https://youtu.be/WTIKRyiUYtQ)]
