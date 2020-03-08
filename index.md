@@ -6,7 +6,7 @@ You can access my Curriculum Vitae at [here](./docs/Xiaowei_Ren_CV.pdf).
 
 Email: xiaowei@ece.ubc.ca
 
-# Professional Experienc
+# Professional Experience
 
 |Sept. 2015 -- Present   |  Research Assistant  | University of British Columbia, Canada             |
 |Sept. 2019 -- Nov. 2019 | Research Intern      | Max Planck Institute for Software Systems, Germany |
