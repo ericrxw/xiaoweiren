@@ -2,7 +2,7 @@ I am a Ph.D. student at the [University of British Columbia](http://www.ece.ubc.
 
 Before joining the [University of British Columbia](http://www.ece.ubc.ca), I earned my Bachelor (2008--2012) and Master (2012--2015) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
 
-You can access my Curriculum Vitae at [here](./docs/Xiaowei_Ren_CV.pdf).
+[[Curriculum Vitae](./docs/Xiaowei_Ren_CV.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=5t92QC0AAAAJ&hl=en)]
 
 Email: xiaowei@ece.ubc.ca
 
