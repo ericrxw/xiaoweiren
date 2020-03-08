@@ -1,4 +1,6 @@
-I am a Ph.D. student at the University of British Columbia, under the supervision of Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca).
+I am a Ph.D. student at the University of British Columbia, under the supervision of Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca). I work in computer architecture and computer systems. My current research mainly focuses on the architectural support for efficient GPU synchronizations, including memory consistency model, cache coherence protocol, transactional memory, and so on. Meanwhile, I am also actively participating in a project of designing sparse training accelerators.
+
+Before joining the University of British Columbia, I earned my Bachelor and Master degrees from Xi'an Jiaotong University in China.
 
 # Publication
 
