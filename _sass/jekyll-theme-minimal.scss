@@ -108,9 +108,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:absolute;
-  left:100px;
-  top:150px;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
