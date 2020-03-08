@@ -2,6 +2,8 @@ I am a Ph.D. student at the University of British Columbia, under the supervisio
 
 Before joining the University of British Columbia, I earned my Bachelor and Master degrees from Xi'an Jiaotong University in China.
 
+You can access my Curriculum Vitae at [here](./docs/Xiaowei_Ren_CV.pdf).
+
 # Publication
 
 * **Xiaowei Ren**, Daniel Lustig, Evgeny Bolotin, Aamer Jaleel, Oreste Villa, and David Nellans. "HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems", _26th International Symposium on High Performance Computer Architecture (HPCA)_, San Diego, USA, February 2020. (acceptance rate: 48/248 = 19.4\%)
