@@ -1,4 +1,4 @@
-I am a Ph.D. student at the University of British Columbia, under the supervision of Prof. ![Mieszko Lis](http://mieszko.ece.ubc.ca).
+I am a Ph.D. student at the University of British Columbia, under the supervision of Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca).
 
 # Publication
 
