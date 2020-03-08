@@ -27,3 +27,15 @@ Email: xiaowei@ece.ubc.ca
 * **Xiaowei Ren**, Pengju Ren, Badong Chen, Jose C. Principe, and Nanning Zheng, "A Reconfigurable Parallel Acceleration Platform for Evaluation of Permutation Entropy", _36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Chicago, USA, August 2014.
 * **Xiaowei Ren**, Pengju Ren, Badong Chen, Tai Min, and Nanning Zheng, "Hardware implementation of KLMS Algorithm using FPGA", _International Joint Conference on Neural Networks (IJCNN)_, Beijing, China, July 2014.
 * Pengju Ren, Qingxin Meng, **Xiaowei Ren**, and Nanning Zheng, "Fault-tolerant Routing for On-chip Network without Using Virtual Channel", _ACM/EDAC/IEEE Design Automation Conference (DAC)_, San Francisco, USA, June 2014. (acceptance rate: 3150/10963 = 29%)
+
+# Awards
+
+|2019 -- 2020 | UBC Graduate Student Initiative (GSI) Awards                |
+|2018 -- 2019 | UBC Graduate Student Initiative (GSI) Awards                |
+|2017 -- 2018 | UBC Graduate Student Initiative (GSI) Awards                |
+|2016 -- 2017 | UBC Graduate Student Initiative (GSI) Awards                |
+|2012 -- 2015 | National Master Scholarship (honors top 5\% students)       |
+|2013 -- 2014 | Suzhou Industrial Park Scholarship                          |
+|2010 -- 2011 | CASC Secondary Class Scholarship                            |
+|2009 -- 2010 | National Motivational Scholarship (honors top 5\% students) |
+|2008 -- 2009 | Siyuan Scholarship                                          |
