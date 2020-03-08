@@ -6,6 +6,15 @@ You can access my Curriculum Vitae at [here](./docs/Xiaowei_Ren_CV.pdf).
 
 Email: xiaowei@ece.ubc.ca
 
+#Professional Experienc
+
+|Sept. 2015 -- Present   |  Research Assistant  | University of British Columbia, Canada             |
+|Sept. 2019 -- Nov. 2019 | Research Intern      | Max Planck Institute for Software Systems, Germany |
+|Aug. 2018 -- Nov. 2018  | Research Intern      | NVIDIA Architecture Research Group, USA            |
+|May. 2017 -- Aug. 2017  | Research Intern      | NVIDIA Architecture Research Group, USA            |
+|Sept. 2012 -- Jun. 2015 | Research Assistant   | Xi'an Jiaotong University, China                   |
+|Jul. 2011 -- Sept. 2011 | Undergraduate Intern | ICT, Chinese Academy of Science, China             |
+
 # Publication
 
 * **Xiaowei Ren**, Daniel Lustig, Evgeny Bolotin, Aamer Jaleel, Oreste Villa, and David Nellans. "HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems", _26th International Symposium on High Performance Computer Architecture (HPCA)_, San Diego, USA, February 2020. (acceptance rate: 48/248 = 19.4\%)
