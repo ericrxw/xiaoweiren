@@ -30,12 +30,12 @@ Email: xiaowei@ece.ubc.ca
 
 # Awards
 
-|2019 -- 2020 | UBC Graduate Student Initiative (GSI) Awards                |
-|2018 -- 2019 | UBC Graduate Student Initiative (GSI) Awards                |
-|2017 -- 2018 | UBC Graduate Student Initiative (GSI) Awards                |
-|2016 -- 2017 | UBC Graduate Student Initiative (GSI) Awards                |
+|2019 -- 2020 | UBC Graduate Support Initiative (GSI) Awards                |
+|2018 -- 2019 | UBC Graduate Support Initiative (GSI) Awards                |
+|2017 -- 2018 | UBC Graduate Support Initiative (GSI) Awards                |
+|2016 -- 2017 | UBC Graduate Support Initiative (GSI) Awards                |
 |2012 -- 2015 | National Master Scholarship (honors top 5% students)        |
 |2013 -- 2014 | Suzhou Industrial Park Scholarship                          |
 |2010 -- 2011 | CASC Secondary Class Scholarship                            |
-|2009 -- 2010 | National Motivational Scholarship (honors top 5% students)  |
+|2009 -- 2010 | National Encouragement Scholarship (honors top 5% students)  |
 |2008 -- 2009 | Siyuan Scholarship                                          |
