@@ -53,4 +53,4 @@ Email: xiaowei@ece.ubc.ca
 
 # Professional Service
 
-|Reviewer | IEEE Computer Architecture Letters (CAL) | 2020 |
+Reviewer, IEEE Computer Architecture Letters (CAL), 2020
