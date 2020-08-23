@@ -8,7 +8,7 @@ Email: xiaowei@ece.ubc.ca
 
 # Professional Experience
 
-|Sept. 2015 -- Oct. 2020 (expected)   |  Research Assistant  | University of British Columbia, Canada             |
+|Sept. 2015 -- Present   |  Research Assistant  | University of British Columbia, Canada             |
 |Sept. 2019 -- Nov. 2019 | Research Intern      | Max Planck Institute for Software Systems, Germany |
 |Aug. 2018 -- Nov. 2018  | Research Intern      | NVIDIA Architecture Research Group, USA            |
 |May. 2017 -- Aug. 2017  | Research Intern      | NVIDIA Architecture Research Group, USA            |
