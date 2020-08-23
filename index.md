@@ -53,5 +53,5 @@ Email: xiaowei@ece.ubc.ca
 
 # Professional Service
 
-|Reviewer    |IEEE CAL | 2020 |
-|Subreviewer | HPCA    | 2020 |
+* Reviewer, IEEE CAL, 2020
+* Subreviewer, HPCA, 2020
