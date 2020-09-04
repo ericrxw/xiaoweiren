@@ -17,7 +17,7 @@ Email: xiaowei@ece.ubc.ca
 
 # Publications
 
-* Dingqing Yang, **Xiaowei Ren**, Amin Ghasemazar, Maximilian Golub, Guy Lemieux, and Mieszko Lis. "Procrustes: A Dataflow and Accelerator for Sparse Training", _53rd International Symposium on Microarchitecture (MICRO)_, Athens, Greece, October 2020. (acceptance rate: 82/424 = 19.3%)
+* Dingqing Yang, Amin Ghasemazar$^{\*}$, **Xiaowei Ren**$^{\*}$, Maximilian Golub, Guy Lemieux, and Mieszko Lis. "Procrustes: A Dataflow and Accelerator for Sparse Training", _53rd International Symposium on Microarchitecture (MICRO)_, Athens, Greece, October 2020. (acceptance rate: 82/424 = 19.3%)
 
 * **Xiaowei Ren**, Daniel Lustig, Evgeny Bolotin, Aamer Jaleel, Oreste Villa, and David Nellans. "HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems", _26th International Symposium on High Performance Computer Architecture (HPCA)_, San Diego, USA, February 2020. (acceptance rate: 48/248 = 19.4%) [[paper](./docs/HPCA2020/HMG-HPCA2020.pdf)][[slides](./docs/HPCA2020/HMG-HPCA2020.pptx)][[lightning-slides](./docs/HPCA2020/HMG-HPCA2020-Lightning.pptx)][[lightning-video](https://youtu.be/FEG6lYoWeIE)]
 
