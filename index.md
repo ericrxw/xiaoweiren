@@ -50,6 +50,7 @@ Email: xiaowei@ece.ubc.ca
 
 # Professional Service
 
+* Reviewer, IEEE TCAD, 2020
 * Reviewer, ACM TACO, 2020
 * Reviewer, IEEE CAL, 2020
 * Subreviewer, HPCA, 2021
