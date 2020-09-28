@@ -15,6 +15,13 @@ Email: xiaowei@ece.ubc.ca
 |Sept. 2012 -- Jun. 2015 | Research Assistant   | Xi'an Jiaotong University, China                   |
 |Jul. 2011 -- Sept. 2011 | Undergraduate Intern | ICT, Chinese Academy of Science, China             |
 
+# Professional Service
+
+* Reviewer, IEEE TCAD, 2020
+* Reviewer, ACM TACO, 2020
+* Reviewer, IEEE CAL, 2020
+* Subreviewer, HPCA, 2021
+
 # Publications
 
 * Dingqing Yang, Amin Ghasemazar\*, **Xiaowei Ren**\*, Maximilian Golub, Guy Lemieux, and Mieszko Lis. "Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training", _53rd International Symposium on Microarchitecture (MICRO)_, Athens, Greece, October 2020. (82/424 = 19.3%)
@@ -47,10 +54,3 @@ Email: xiaowei@ece.ubc.ca
 |2010 -- 2011 | CASC Secondary Class Scholarship                            |
 |2009 -- 2010 | National Encouragement Scholarship (honors top 3% students) |
 |2008 -- 2009 | Siyuan Scholarship                                          |
-
-# Professional Service
-
-* Reviewer, IEEE TCAD, 2020
-* Reviewer, ACM TACO, 2020
-* Reviewer, IEEE CAL, 2020
-* Subreviewer, HPCA, 2021
