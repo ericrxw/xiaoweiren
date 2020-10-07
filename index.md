@@ -21,6 +21,7 @@ Email: xiaowei@ece.ubc.ca
 * Reviewer, ACM TACO, 2020
 * Reviewer, IEEE CAL, 2020
 * Subreviewer, HPCA, 2021
+* Shadow Program Committee, EuroSys, 2021
 
 # Publications
 
