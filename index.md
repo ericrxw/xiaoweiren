@@ -17,7 +17,7 @@ Email: xiaowei@ece.ubc.ca
 
 # Professional Service
 
-* External Reviewer, ISCA, 2021
+* External Reviewer Committee, ISCA, 2021
 * Reviewer, IEEE TC, 2020
 * Reviewer, IEEE TCAD, 2020
 * Reviewer, ACM TACO, 2020
