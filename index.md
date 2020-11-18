@@ -1,6 +1,6 @@
-I am a final-year PhD student at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), advised by Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca). I work in computer architecture and computer systems. My PhD research mainly focuses on (1) architectural support for efficient synchronization in single-GPU and multi-GPU systems, including memory consistency model, cache coherence protocol, transactional memory, and so on; (2) scalable graphics rendering in multi-GPU systems; (3) hardware acceleration for training sparse neural network directly.
+I am a Postdoc Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), working with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca). I work in computer architecture and computer systems. My research mainly focuses on (1) architectural support for efficient synchronization in single-GPU and multi-GPU systems, including memory consistency model, cache coherence protocol, transactional memory, and so on; (2) scalable graphics rendering in multi-GPU systems; (3) hardware acceleration for training sparse neural network directly.
 
-Before joining [University of British Columbia (UBC)](http://www.ece.ubc.ca), I earned my Bachelor (2008--2012) and Master (2012--2015) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
+I earned my PhD (2015--2020) from [University of British Columbia (UBC)](http://www.ece.ubc.ca) in Canada. I also earned my Bachelor (2008--2012) and Master (2012--2015) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
 
 [[Curriculum Vitae](./docs/Xiaowei_Ren_CV.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=5t92QC0AAAAJ&hl=en)]
 
