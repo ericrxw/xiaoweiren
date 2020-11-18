@@ -6,13 +6,13 @@ Email: xiaowei@ece.ubc.ca
 
 # Education
 
-PhD in Computer Engineering, University of British Columbia, Canada, Oct. 2020 \\
+PhD, University of British Columbia, Canada, Oct. 2020 \\
 Dissertation: Efficient Synchronization Mechanisms for Scalable GPU Architectures [[PDF](./docs/Xiaowei_Ren_PhD_Dissertation.pdf)]
 
-M.Sc in Computer Engineering, Xi'an Jiaotong University, China, Jun. 2015\\
+M.Sc, Xi'an Jiaotong University, China, Jun. 2015\\
 Thesis: Parallel Acceleration Algorithms and FPGA Implementation for KLMS and KAP
 
-B.Sc in Electronic Engineering, Xi'an Jiaotong University, China, Jun. 2012
+B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 # Professional Experience
 
