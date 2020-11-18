@@ -6,9 +6,9 @@ Email: xiaowei@ece.ubc.ca
 
 # Education
 
-| Oct. 2020 | PhD in Computer Engineering    | University of British Columbia, Canada |
-| Jun. 2015 | M.Sc in Computer Engineering   | Xi'an Jiaotong University, China       |
-| Jun. 2012 | B.Sc in Electronic Engineering | Xi'an Jiaotong University, China       |
+| PhD  | Oct. 2020 | University of British Columbia, Canada |
+| M.Sc | Jun. 2015 | Xi'an Jiaotong University, China       |
+| B.Sc | Jun. 2012 | Xi'an Jiaotong University, China       |
 
 # Professional Experience
 
