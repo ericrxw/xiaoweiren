@@ -1,10 +1,15 @@
 I am a Postdoc Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), working with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca). I work in computer architecture and computer systems. My research mainly focuses on (1) architectural support for efficient synchronization in single-GPU and multi-GPU systems, including memory consistency model, cache coherence protocol, transactional memory, and so on; (2) scalable graphics rendering in multi-GPU systems; (3) hardware acceleration for training sparse neural network directly.
 
-I earned my PhD (2015--2020) from [University of British Columbia (UBC)](http://www.ece.ubc.ca) in Canada. I also earned my Bachelor (2008--2012) and Master (2012--2015) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn) in China.
-
 [[Curriculum Vitae](./docs/Xiaowei_Ren_CV.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=5t92QC0AAAAJ&hl=en)]
 
 Email: xiaowei@ece.ubc.ca
+
+# Education
+
+|Sept. 2015 -- Oct. 2020 | PhD  | University of British Columbia, Canada |
+|Sept. 2012 -- Jun. 2015 | M.Sc | Xi'an Jiaotong University, China       |
+|Sept. 2008 -- Jun. 2012 | B.Sc | Xi'an Jiaotong University, China       |
+
 
 # Professional Experience
 
