@@ -46,19 +46,19 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 * **Xiaowei Ren**, and Mieszko Lis. "Efficient Sequential Consistency in GPUs via Relativistic Cache Coherence", _23rd International Symposium on High Performance Computer Architecture (HPCA)_, Austin, USA, February 2017. (acceptance rate: 50/224 = 22.3%) [[paper](./docs/HPCA2017/RCC-HPCA2017.pdf)][[slides](./docs/HPCA2017/RCC-HPCA2017.pptx)][[lightning-slides](./docs/HPCA2017/RCC-HPCA2017-Lightning.pptx)]
 
-* Pengju Ren, **Xiaowei Ren**, Sudhanshu Sane, Michel A. Kinsy, and Nanning Zheng, "A Deadlock-Free and Connectivity-Guaranteed Methodology for Achieving Fault-tolerance in Direct Networks", _IEEE Transactions on Computers (TC)_, 2016.
+* Pengju Ren, **Xiaowei Ren**, Sudhanshu Sane, Michel A. Kinsy, and Nanning Zheng. "A Deadlock-Free and Connectivity-Guaranteed Methodology for Achieving Fault-tolerance in Direct Networks", _IEEE Transactions on Computers (TC)_, 2016.
 
-* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren, "A Reconfigurable Parallel Accelerator for the Kernel Affine Projection Algorithm", _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, July 2015.
+* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren. "A Reconfigurable Parallel Accelerator for the Kernel Affine Projection Algorithm", _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, July 2015.
 
-* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren, "A 128-way FPGA Platform for the Acceleration of KLMS Algorithm", _Asia and South Pacific Design Automation Conference (ASP-DAC)_, Tokyo, Japan, January 2015. (University LSI Design Contest)
+* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren. "A 128-way FPGA Platform for the Acceleration of KLMS Algorithm", _Asia and South Pacific Design Automation Conference (ASP-DAC)_, Tokyo, Japan, January 2015. (University LSI Design Contest)
 
-* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren, "A Real-time Permutation Entropy Computation for EEG Signals", _Asia and South Pacific Design Automation Conference (ASP-DAC)_, Tokyo, Japan, January 2015. (University LSI Design Contest)
+* **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren. "A Real-time Permutation Entropy Computation for EEG Signals", _Asia and South Pacific Design Automation Conference (ASP-DAC)_, Tokyo, Japan, January 2015. (University LSI Design Contest)
 
-* **Xiaowei Ren**, Pengju Ren, Badong Chen, Jose C. Principe, and Nanning Zheng, "A Reconfigurable Parallel Acceleration Platform for Evaluation of Permutation Entropy", _36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Chicago, USA, August 2014.
+* **Xiaowei Ren**, Pengju Ren, Badong Chen, Jose C. Principe, and Nanning Zheng. "A Reconfigurable Parallel Acceleration Platform for Evaluation of Permutation Entropy", _36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Chicago, USA, August 2014.
 
-* **Xiaowei Ren**, Pengju Ren, Badong Chen, Tai Min, and Nanning Zheng, "Hardware implementation of KLMS Algorithm using FPGA", _International Joint Conference on Neural Networks (IJCNN)_, Beijing, China, July 2014.
+* **Xiaowei Ren**, Pengju Ren, Badong Chen, Tai Min, and Nanning Zheng. "Hardware implementation of KLMS Algorithm using FPGA", _International Joint Conference on Neural Networks (IJCNN)_, Beijing, China, July 2014.
 
-* Pengju Ren, Qingxin Meng, **Xiaowei Ren**, and Nanning Zheng, "Fault-tolerant Routing for On-chip Network without Using Virtual Channel", _ACM/EDAC/IEEE Design Automation Conference (DAC)_, San Francisco, USA, June 2014. (acceptance rate: 3150/10963 = 29%)
+* Pengju Ren, Qingxin Meng, **Xiaowei Ren**, and Nanning Zheng. "Fault-tolerant Routing for On-chip Network without Using Virtual Channel", _ACM/EDAC/IEEE Design Automation Conference (DAC)_, San Francisco, USA, June 2014. (acceptance rate: 3150/10963 = 29%)
 
 # Awards
 
