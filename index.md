@@ -7,7 +7,7 @@ Email: xiaowei@ece.ubc.ca
 # Education
 
 PhD, University of British Columbia, Canada, Oct. 2020 \\
-Dissertation: Efficient Synchronization Mechanisms for Scalable GPU Architectures [[PDF](./docs/Xiaowei_Ren_PhD_Dissertation.pdf)]
+Dissertation: [[Efficient Synchronization Mechanisms for Scalable GPU Architectures](./docs/Xiaowei_Ren_PhD_Dissertation.pdf)]
 
 M.Sc, Xi'an Jiaotong University, China, Jun. 2015\\
 Thesis: Parallel Acceleration Algorithms and FPGA Implementation for KLMS and KAP
