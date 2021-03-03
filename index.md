@@ -26,15 +26,16 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 # Professional Service
 
-* Artifact Evaluation Committee, ASPLOS, 2021
+* External Reviewer Committee, MICRO, 2021
 * External Reviewer Committee, ISCA, 2021
-* Reviewer, IEEE TPDS, 2021
+* Artifact Evaluation Committee, ASPLOS, 2021
 * Reviewer, ACM TECS, 2020
-* Reviewer, JPDC, 2020
+* Reviewer, ACM TACO, 2020
+* Reviewer, IEEE TPDS, 2021
 * Reviewer, IEEE TC, 2020
 * Reviewer, IEEE TCAD, 2020
-* Reviewer, ACM TACO, 2020
 * Reviewer, IEEE CAL, 2020
+* Reviewer, JPDC, 2020
 * Subreviewer, HPCA, 2021
 * Shadow Program Committee, EuroSys, 2021
 
