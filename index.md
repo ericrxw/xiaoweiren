@@ -16,13 +16,13 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 # Professional Experience
 
-|Nov. 2020 -- Present    | Postdoc Fellow       | University of British Columbia, Canada             |
-|Sept. 2015 -- Oct. 2020 | Research Assistant   | University of British Columbia, Canada             |
-|Sept. 2019 -- Nov. 2019 | Research Intern      | Max Planck Institute for Software Systems, Germany |
-|Aug. 2018 -- Nov. 2018  | Research Intern      | NVIDIA Architecture Research Group, USA            |
-|May. 2017 -- Aug. 2017  | Research Intern      | NVIDIA Architecture Research Group, USA            |
-|Sept. 2012 -- Jun. 2015 | Research Assistant   | Xi'an Jiaotong University, China                   |
-|Jul. 2011 -- Sept. 2011 | Undergraduate Intern | ICT, Chinese Academy of Science, China             |
+|Nov. 2020 -- Present    | Postdoc Research Fellow | University of British Columbia, Canada             |
+|Sept. 2015 -- Oct. 2020 | Research Assistant      | University of British Columbia, Canada             |
+|Sept. 2019 -- Nov. 2019 | Research Intern         | Max Planck Institute for Software Systems, Germany |
+|Aug. 2018 -- Nov. 2018  | Research Intern         | NVIDIA Architecture Research Group, USA            |
+|May. 2017 -- Aug. 2017  | Research Intern         | NVIDIA Architecture Research Group, USA            |
+|Sept. 2012 -- Jun. 2015 | Research Assistant      | Xi'an Jiaotong University, China                   |
+|Jul. 2011 -- Sept. 2011 | Undergraduate Intern    | ICT, Chinese Academy of Science, China             |
 
 # Professional Service
 
