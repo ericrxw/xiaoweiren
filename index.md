@@ -51,7 +51,7 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 * **Xiaowei Ren**, and Mieszko Lis. "Efficient Sequential Consistency in GPUs via Relativistic Cache Coherence", _23rd International Symposium on High Performance Computer Architecture (HPCA)_, Austin, USA, February 2017. (acceptance rate: 50/224 = 22.3%) [[paper](./docs/HPCA2017/RCC-HPCA2017.pdf)][[slides](./docs/HPCA2017/RCC-HPCA2017.pptx)][[lightning-slides](./docs/HPCA2017/RCC-HPCA2017-Lightning.pptx)]
 
-* Pengju Ren, **Xiaowei Ren**, Sudhanshu Sane, Michel A. Kinsy, and Nanning Zheng. "A Deadlock-Free and Connectivity-Guaranteed Methodology for Achieving Fault-tolerance in Direct Networks", _IEEE Transactions on Computers (TC)_, 2016.
+* Pengju Ren, **Xiaowei Ren**, Sudhanshu Sane, Michel A. Kinsy, and Nanning Zheng. "A Deadlock-Free and Connectivity-Guaranteed Methodology for Achieving Fault-tolerance in On-Chip Networks", _IEEE Transactions on Computers (TC)_, 2016.
 
 * **Xiaowei Ren**, Qihang Yu, Badong Chen, Nanning Zheng, and Pengju Ren. "A Reconfigurable Parallel Accelerator for the Kernel Affine Projection Algorithm", _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, July 2015.
 
