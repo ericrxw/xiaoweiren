@@ -33,8 +33,8 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 * Reviewer, ACM TACO, 2020
 * Reviewer, IEEE TPDS, 2021
 * Reviewer, IEEE TC, 2020
-* Reviewer, IEEE TCAD, 2020
-* Reviewer, IEEE CAL, 2020
+* Reviewer, IEEE TCAD, 2020, 2021
+* Reviewer, IEEE CAL, 2020, 2021
 * Reviewer, JPDC, 2020
 * Subreviewer, HPCA, 2021
 * Shadow Program Committee, EuroSys, 2021
