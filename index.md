@@ -1,4 +1,4 @@
-I am a Senior Deep Learning Architecture at [NVIDIA](https://www.nvidia.com/en-us/).
+I am a Senior Deep Learning Architect at [NVIDIA](https://www.nvidia.com/en-us/).
 
 Previously , I was a Postdoc Research Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), where I also earned my doctorate in 2020. I worked with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca) at UBC. I worked in computer architecture and computer systems, with particular focuses on GPUs and Machine Learning Accelerators.
 
