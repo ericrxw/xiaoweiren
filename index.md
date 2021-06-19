@@ -1,8 +1,4 @@
-I am a Senior Deep Learning Architect at [NVIDIA](https://www.nvidia.com/en-us/).
-
-Previously , I was a Postdoc Research Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), where I also earned my doctorate in 2020. I worked with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca) at UBC. I worked in computer architecture and computer systems, with particular focuses on GPUs and Machine Learning Accelerators.
-
-Before joining UBC, I received my master and bachelor degrees in [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am a Senior Deep Learning Architect at [NVIDIA](https://www.nvidia.com/en-us/). Previously , I was a Postdoc Research Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), where I also earned my doctorate in 2020. I worked with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca) at UBC. I worked in computer architecture and computer systems, with particular focuses on GPUs and Machine Learning Accelerators. Before joining UBC, I received my master and bachelor degrees in [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 [[Curriculum Vitae](./docs/Xiaowei_Ren_CV.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=5t92QC0AAAAJ&hl=en)][[LinkedIn](https://www.linkedin.com/in/xiaowei-ren-95a7318a/)]
 
