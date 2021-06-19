@@ -1,6 +1,6 @@
 I am a Senior Deep Learning Architecture at [NVIDIA](https://www.nvidia.com/en-us/).
 
-Previously , I was a Postdoc Research Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), where I also earned my doctorate in 2020. I worked with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca) at UBC. I worked in computer architecture and computer systems. My research mainly focused on (1) architectural support for efficient synchronization in single-GPU and multi-GPU systems, including memory consistency model, cache coherence protocol, transactional memory, and so on; (2) scalable graphics rendering in multi-GPU systems; (3) hardware acceleration for training sparse neural network directly.
+Previously , I was a Postdoc Research Fellow at the [University of British Columbia (UBC)](http://www.ece.ubc.ca), where I also earned my doctorate in 2020. I worked with Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca) at UBC. I worked in computer architecture and computer systems, with particular focuses on GPUs and Machine Learning Accelerators.
 
 Before joining UBC, I received my master and bachelor degrees in [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
