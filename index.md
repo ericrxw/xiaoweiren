@@ -42,6 +42,8 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 # Publications
 
+* Michalis Kokologiannakis, **Xiaowei Ren**, and Viktor Vafeiadis. "Dynamic Partial Order Reductions for Spinloops", _Annual International Conference of Formal Methods in Computer-Aided Design (FMCAD)_, Yale University, Connecticut, USA, October 2021. [[paper](./docs/FMCAD2021/SAVER-FMCAD2021.pdf)]
+
 * **Xiaowei Ren**, and Mieszko Lis. "CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition", _27th International Symposium on High Performance Computer Architecture (HPCA)_, Seoul, South Korea, February 2021. (acceptance rate: 63/258 = 24.4%) [[paper](./docs/HPCA2021/CHOPIN-HPCA2021.pdf)][[full-talk-slides](./docs/HPCA2021/CHOPIN-HPCA2021-full.pptx)][[short-talk-slides](./docs/HPCA2021/CHOPIN-HPCA2021-short.pptx)][[short-talk-video](https://youtu.be/mNZ3rVbiMnA)]
 
 * Dingqing Yang, Amin Ghasemazar\*, **Xiaowei Ren**\*, Maximilian Golub, Guy Lemieux, and Mieszko Lis. "Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training", _53rd International Symposium on Microarchitecture (MICRO)_, Athens, Greece, October 2020. (acceptance rate: 82/424 = 19.3%, \*equal contribution) [[paper](./docs/MICRO2020/Procrustes-MICRO2020.pdf)][[arXiv](https://arxiv.org/abs/2009.10976)][[lightning-video](https://youtu.be/JE54xyg5UOs)][[full-talk-video](https://youtu.be/9ev6W70elBI)]
