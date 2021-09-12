@@ -31,7 +31,7 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 * External Reviewer Committee, ISCA, 2021
 * Artifact Evaluation Committee, ASPLOS, 2021
 * Reviewer, ACM TECS, 2020
-* Reviewer, ACM TACO, 2020
+* Reviewer, ACM TACO, 2020, 2021
 * Reviewer, IEEE TPDS, 2021
 * Reviewer, IEEE TC, 2020
 * Reviewer, IEEE TCAD, 2020, 2021
