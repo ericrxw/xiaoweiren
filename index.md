@@ -16,7 +16,7 @@ B.Sc, Xi'an Jiaotong University, China, Jun. 2012
 
 # Professional Experience
 
-|Jun. 2021 -- Present    | Senior Architect        | NVIDIA, USA                                     |
+|Jun. 2021 -- Present    | Senior Architect        | NVIDIA, Canada and USA                                     |
 |Nov. 2020 -- Jun. 2021  | Postdoc Research Fellow | University of British Columbia, Canada             |
 |Sept. 2015 -- Oct. 2020 | Research Assistant      | University of British Columbia, Canada             |
 |Sept. 2019 -- Nov. 2019 | Research Intern         | Max Planck Institute for Software Systems, Germany |
